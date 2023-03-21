@@ -1,0 +1,12 @@
+.header{
+    color: green;
+    background-color: brown;
+}
+
+.menu a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: green;
+    font-size: 25px;
+    font-weight: 600;
+}
